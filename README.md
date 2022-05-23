@@ -4,4 +4,4 @@ Data supporting the conclusions of
 development and validation of a machine learning model"
 
 Data column headings:
-['Annotator1', 'Annotator2', 'Annotator3', 'label', 'text clean','index']
+['Annotator1', 'Annotator2', 'Annotator3', 'label', 'text','index']
