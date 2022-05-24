@@ -6,12 +6,12 @@ development and validation of a machine learning model"
 Data column headings:
 ['Annotator1', 'Annotator2', 'Annotator3', 'label', 'text','index']
 
-
+Label values:
 0.    promotional (promozionale)
 1.    neutral (neutro)
 2.    discouraging (scoraggiante)
 3.    ambiguous (ambiguo) 
 4.    indiscernible (non_visualizzabile)
 
-Final lables ('label') were discussed amongst the three annotators.
+Final labels ('label') were discussed amongst the three annotators.
 'label's are just promotional, neutal or discourging. However annotators may also include anbiguous or indiscernable.
