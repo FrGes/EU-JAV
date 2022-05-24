@@ -7,6 +7,8 @@ Data column headings:
 ['Annotator1', 'Annotator2', 'Annotator3', 'label', 'text','index']
 
 Label values:
+
+
 0.    promotional (promozionale)
 1.    neutral (neutro)
 2.    discouraging (scoraggiante)
